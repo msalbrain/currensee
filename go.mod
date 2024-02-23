@@ -1,4 +1,4 @@
-module github.com/dzungtran/echo-rest-api
+module github.com/msalbrain/currensee
 
 go 1.21
 
