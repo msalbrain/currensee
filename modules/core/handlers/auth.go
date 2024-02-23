@@ -3,9 +3,9 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/dzungtran/echo-rest-api/config"
-	"github.com/dzungtran/echo-rest-api/modules/core/usecases"
-	"github.com/dzungtran/echo-rest-api/pkg/middlewares"
+	"github.com/msalbrain/currensee/config"
+	"github.com/msalbrain/currensee/modules/core/usecases"
+	"github.com/msalbrain/currensee/pkg/middlewares"
 	"github.com/labstack/echo/v4"
 )
 
