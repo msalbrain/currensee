@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/dzungtran/echo-rest-api/modules/core/domains"
-	"github.com/dzungtran/echo-rest-api/modules/core/dto"
-	"github.com/dzungtran/echo-rest-api/pkg/constants"
+	"github.com/msalbrain/currensee/modules/core/domains"
+	"github.com/msalbrain/currensee/modules/core/dto"
+	"github.com/msalbrain/currensee/pkg/constants"
 	"github.com/labstack/echo/v4"
 )
 

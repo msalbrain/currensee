@@ -1,11 +1,11 @@
 package projects
 
 import (
-	"github.com/dzungtran/echo-rest-api/modules/core"
-	"github.com/dzungtran/echo-rest-api/modules/projects/handlers"
-	"github.com/dzungtran/echo-rest-api/modules/projects/repositories"
-	"github.com/dzungtran/echo-rest-api/modules/projects/usecases"
-	"github.com/dzungtran/echo-rest-api/pkg/middlewares"
+	"github.com/msalbrain/currensee/modules/core"
+	"github.com/msalbrain/currensee/modules/projects/handlers"
+	"github.com/msalbrain/currensee/modules/projects/repositories"
+	"github.com/msalbrain/currensee/modules/projects/usecases"
+	"github.com/msalbrain/currensee/pkg/middlewares"
 	"github.com/labstack/echo/v4"
 	"go.uber.org/dig"
 )
