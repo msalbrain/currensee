@@ -6,13 +6,13 @@ import (
 	"context"
 	"errors"
 
-	"github.com/dzungtran/echo-rest-api/modules/core/domains"
-	"github.com/dzungtran/echo-rest-api/modules/core/dto"
-	"github.com/dzungtran/echo-rest-api/modules/core/repositories"
-	"github.com/dzungtran/echo-rest-api/pkg/contexts"
-	"github.com/dzungtran/echo-rest-api/pkg/cue"
-	sqlTools "github.com/dzungtran/echo-rest-api/pkg/sql-tools"
-	"github.com/dzungtran/echo-rest-api/pkg/utils"
+	"github.com/msalbrain/currensee/modules/core/domains"
+	"github.com/msalbrain/currensee/modules/core/dto"
+	"github.com/msalbrain/currensee/modules/core/repositories"
+	"github.com/msalbrain/currensee/pkg/contexts"
+	"github.com/msalbrain/currensee/pkg/cue"
+	sqlTools "github.com/msalbrain/currensee/pkg/sql-tools"
+	"github.com/msalbrain/currensee/pkg/utils"
 	"github.com/jinzhu/copier"
 )
 
